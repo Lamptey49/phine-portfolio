@@ -182,3 +182,16 @@ footer .footer-bottom {
     color:#ffffff;
     padding: 0 80px;
 }
+@media(max-width:370px){
+    header .logo {
+        color: #ffffff;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    footer {
+        color: #ffffff;
+        text-align: center;
+        align-items: baseline;
+        padding-bottom: 2rem;
+    }
+}
